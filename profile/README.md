@@ -1,0 +1,1 @@
+BrilliantBlocks is a Layer-2 Smart Contract as a Service platform for easy and fast development of scalable and secure decentralized applications. Through our no-code dashboard and GraphQL API we provide user-friendly access to STARK-based ZK-rollups as an integrated scaling solution for your own application.
