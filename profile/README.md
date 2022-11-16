@@ -1,3 +1,2 @@
 # BrilliantBlocks
-BrilliantBlocks is a Layer-2 Smart Contract as a Service platform for easy and fast development of scalable and secure decentralized applications. Through our no-code dashboard and GraphQL API we provide user-friendly access to STARK-based ZK-rollups as an integrated scaling solution for non-crypto-native developer teams.
-The core of our product is our modular Layer-2 Smart Contract system on StarkNet, which is built as a modified version of the "Diamond Pattern" EIP-2535 standard. With this interface standard, smart contracts ("Diamonds") can be assembled from existing functionality components ("Facets") as required, enabling agility and upgradeability for development teams.
+Building decentralized applications on StarkNet. 
