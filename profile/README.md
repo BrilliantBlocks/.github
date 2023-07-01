@@ -1,2 +1,2 @@
 # BrilliantBlocks
-Building decentralized applications on StarkNet. 
+Building decentralized applications. 
